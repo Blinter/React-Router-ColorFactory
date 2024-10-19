@@ -1,0 +1,9 @@
+.go-back-button {
+    z-index: 5;
+    position: absolute;
+    font-size: 32px;
+    padding: 30px;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
